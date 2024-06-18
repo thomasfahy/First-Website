@@ -11,7 +11,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 480px;
+    margin-left: 150px;
     margin-right: 60px;
 }
 ul{
@@ -67,11 +67,11 @@ a{
     font-weight: 900;
     cursor: pointer;
     padding: 6px 16px;
-    border-radius: 7px;
+    border-radius: 15px;
     background: royalblue;
-    border: 1px solid royalblue;
+    border: 1px solid rgb(255, 255, 255);
     color: white;
-    width: 80px;
+    width: 100px;
 }
 .information-header{
     margin-top: 30px;
@@ -108,22 +108,22 @@ a{
     width: 200px;
 }
 .quote{
-    font-size: 36px;
+    font-size: 22px;
     font-weight: 0;
     color: #1F2937;
     font-style: italic;
-    width: 600px;
+    width: 300px;
 }
 .quotebox{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #E5E7EB;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }
 .author{
-    padding-left: 400px;
     text-align: right;
     font-weight: 900;
     font-size: 18px;
@@ -140,4 +140,13 @@ a{
     padding-top: 25px;
     padding-bottom: 25px;
     text-align: center;
+}
+.quoteboxs{
+    display: flex;
+    justify-content: space-between;
+    background-color: #E5E7EB;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    flex-wrap: wrap;
 }
