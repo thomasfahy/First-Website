@@ -1,2 +1,2 @@
-# business-webpage
-First attempt at a business style website frontpage
+# First Ever Proper Website
+Just a fun project completed for the Odin Project.
