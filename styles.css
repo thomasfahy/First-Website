@@ -5,6 +5,13 @@
     color: #F9FAF8;
     font-weight: 700;
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
 ul{
     list-style-type: none;
     display: flex;
@@ -22,4 +29,8 @@ a{
     background-color: #1F2937;
     padding: 12px;
     border: 12px;
+}
+.frontimg{
+    height: auto;
+    width: 350px;
 }
