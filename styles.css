@@ -112,6 +112,7 @@ a{
     font-weight: 0;
     color: #1F2937;
     font-style: italic;
+    width: 600px;
 }
 .quotebox{
     display: flex;
@@ -126,4 +127,17 @@ a{
     text-align: right;
     font-weight: 900;
     font-size: 18px;
+}
+
+.white-space{
+    background-color: #F9FAF8;
+    height: 250px;
+    width: 1920px;
+}
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
 }
