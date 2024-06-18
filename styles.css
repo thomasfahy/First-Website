@@ -34,3 +34,19 @@ a{
     height: auto;
     width: 350px;
 }
+.headline{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+.headlinecard{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.leftheadlines{
+    display: flex;
+    flex-direction: column;
+}
