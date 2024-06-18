@@ -1,0 +1,25 @@
+
+
+.header{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+}
+li{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+a{
+    text-decoration: none;
+    color:#E5E7EB;
+    font-size: 18px;
+}
+.third{
+    background-color: #1F2937;
+    padding: 12px;
+    border: 12px;
+}
